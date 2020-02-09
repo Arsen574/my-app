@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c7afa40-e576-4150-817d-4a562da9d267" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WaJBwYAgh6qSNxIrAMpBrunMEE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Arsen\my-app\src" />
+      <recent name="C:\Users\Arsen\my-app\src\Components\Dialogs\Message" />
+      <recent name="C:\Users\Arsen\my-app\src\Components\Dialogs\DialogItem" />
+      <recent name="C:\Users\Arsen\my-app\src\Components\UserPage\Profileinfo" />
+      <recent name="C:\Users\Arsen\my-app\src\Components\Dialogs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Arsen\my-app\src\Components\MyPost" />
+      <recent name="C:\Users\Arsen\my-app\src\Components\Dialogs" />
+      <recent name="C:\Users\Arsen\my-app\public" />
+      <recent name="C:\Users\Arsen\my-app\src\Components\UserPage\MyPosts" />
+      <recent name="C:\Users\Arsen\my-app\src\Components\UserPage" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/App.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.App.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c7afa40-e576-4150-817d-4a562da9d267" name="Default Changelist" comment="" />
+      <created>1579381641914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579381641914</updated>
+      <workItem from="1579381660189" duration="6663000" />
+      <workItem from="1579388632962" duration="133000" />
+      <workItem from="1579538413416" duration="6085000" />
+      <workItem from="1579617977029" duration="14295000" />
+      <workItem from="1579721155781" duration="1073000" />
+      <workItem from="1579722323757" duration="2000" />
+      <workItem from="1579722377589" duration="2218000" />
+      <workItem from="1579776592760" duration="491000" />
+      <workItem from="1579777103246" duration="13049000" />
+      <workItem from="1579809654067" duration="743000" />
+      <workItem from="1579885168793" duration="7691000" />
+      <workItem from="1579958532528" duration="17144000" />
+      <workItem from="1580028260706" duration="1101000" />
+      <workItem from="1580149509494" duration="761000" />
+      <workItem from="1580316818236" duration="3000" />
+      <workItem from="1580316838795" duration="1728000" />
+      <workItem from="1580643537097" duration="1668000" />
+      <workItem from="1580648169741" duration="36000" />
+      <workItem from="1580648223715" duration="706000" />
+      <workItem from="1580648949696" duration="301000" />
+      <workItem from="1580651863505" duration="378000" />
+      <workItem from="1580652328118" duration="1573000" />
+      <workItem from="1580748065869" duration="8600000" />
+      <workItem from="1581180179689" duration="450000" />
+      <workItem from="1581180742437" duration="404000" />
+      <workItem from="1581192338449" duration="9238000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="89" key="#ESLint" timestamp="1581198977489">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="89" key="#ESLint/0.0.1600.860@0.0.1600.860" timestamp="1581198977489" />
+    <state x="392" y="89" key="#Inspections" timestamp="1579636352863">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="89" key="#Inspections/0.0.1600.860@0.0.1600.860" timestamp="1579636352863" />
+    <state x="549" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579975634447">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="549" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1579975634447" />
+    <state x="530" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581195720210">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1581195720210" />
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1581181147577">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1581181147577" />
+    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1581181147577">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1581181147577" />
+    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1581181147577">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1581181147577" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1581181147577">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1581181147577" />
+    <state x="469" y="64" width="662" height="732" key="find.popup" timestamp="1579385813355">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="469" y="64" width="662" height="732" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1579385813355" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1581194647820">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1581194647820" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1580317648639">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1580317648639" />
+  </component>
+</project>
